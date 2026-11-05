@@ -1,0 +1,40 @@
+Topic ID,Topic Name,Volume (2026),EWEI,Precursor Influx,Projected Volume,Phase Acceleration,Future Priority Score
+5,Topic_5_soft_printing_wearable,172,0.1156,0.0087,195.86,8.0653,0.3854
+19,Topic_19_neuromorphic_synaptic_memory,40,0.0213,0.0051,51.66,3.8994,0.3769
+18,Topic_18_metasurfaces_optical_metasurface,34,0.0166,0.0029,42.25,2.2342,0.3551
+13,Topic_13_alzheimers_ad_alzheimers disease,37,0.018,0.0012,44.99,2.5097,0.3535
+12,Topic_12_waste_packaging_food,62,0.0024,0.0009,72.74,3.6407,0.345
+26,Topic_26_sers_raman_anticounterfeiting,45,0.0384,0.0024,50.82,1.5847,0.3228
+9,Topic_9_climate_species_land,38,-0.0421,0.0002,43.42,2.0512,0.3069
+21,Topic_21_absorption_electromagnetic_shielding,33,-0.1125,0.0022,40.66,3.3215,0.3067
+28,Topic_28_scheduling_optimization_fuzzy,25,-0.0621,0.0001,30.05,1.9283,0.3037
+2,Topic_2_batteries_battery_hydrogen,251,-0.076,0.0162,270.28,7.7922,0.2917
+7,Topic_7_blockchain_iot_edge,59,-0.0714,0.0031,64.78,2.3891,0.2915
+4,Topic_4_sleep_health_qualitative,51,-0.1399,0.0001,59.63,3.6879,0.2858
+23,Topic_23_sarscov2_covid19_coronavirus,7,-0.0263,0.0,9.77,1.2692,0.2215
+6,Topic_6_digital_digital transformation_green,30,-0.1454,0.0,31.04,1.4754,0.2193
+33,Topic_33_dietary_nutrition_tcm,7,-0.0295,0.0,8.51,0.6906,0.1464
+22,Topic_22_urban_cities_sdgs,16,-0.0407,0.0,16.75,0.4587,0.1162
+31,Topic_31_alloys_topological_highentropy,9,-0.0233,0.0006,9.33,0.4245,0.0969
+36,Topic_36_robust optimization_distributionally_probability,0,0.0,0.0,1.17,0.6646,0.0
+37,Topic_37_periodontal_diseases conditions_caries,0,0.0,0.0,0.84,0.3667,0.0
+38,Topic_38_rings_algebra_exercises,1,0.0249,0.0,0.0,-0.8553,-0.0409
+29,Topic_29_reading_language_english,17,0.0584,0.0,16.82,-0.3679,-0.0814
+11,Topic_11_vr_students_reality,19,-0.0346,0.0,17.12,-0.3359,-0.1275
+30,Topic_30_political_trade_policing,8,0.0611,0.0,7.24,-0.8619,-0.1575
+20,Topic_20_ecg_activity_activity recognition,26,0.0593,0.0007,25.25,-0.9208,-0.1993
+34,Topic_34_financial_fintech_financial inclusion,8,0.2129,0.0,5.62,-3.0077,-0.2017
+15,Topic_15_channel_mimo_antenna,42,0.0043,0.0023,40.44,-0.7791,-0.2029
+16,Topic_16_multiview_clustering_seismic,60,0.2277,0.0018,57.61,-4.3327,-0.219
+24,Topic_24_causal_imputation_causal inference,23,0.2075,0.0001,21.18,-2.7014,-0.2285
+25,Topic_25_crimson_doi_hexagon,383,0.4239,0.0,217.16,-138.4994,-0.25
+17,Topic_17_black_hole_stars,31,-0.0274,0.0,28.97,-1.0,-0.2537
+32,Topic_32_eye_mri_imaging,7,0.0617,0.0,3.18,-2.4948,-0.2543
+10,Topic_10_energy_power_charging,101,0.0775,0.0089,102.4,-2.3063,-0.2593
+27,Topic_27_quantum_quantum computing_classical,34,0.1069,0.0003,32.46,-2.2251,-0.2605
+14,Topic_14_news_media_social media,24,0.1114,0.0,21.33,-2.5784,-0.2732
+8,Topic_8_uav_control_uavs,107,0.0849,0.0031,99.8,-6.1846,-0.2845
+35,Topic_35_la_yang_dan,32,0.3877,0.0,10.69,-18.5271,-0.2848
+0,Topic_0_image_deep_detection,680,0.046,0.0232,657.28,-21.0553,-0.2915
+1,Topic_1_drug_protein_molecular,360,0.0255,0.0062,302.93,-39.4738,-0.3357
+3,Topic_3_ai_chatgpt_artificial intelligence,220,-0.1001,0.003,216.26,-2.2832,-0.3387
